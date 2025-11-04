@@ -2,6 +2,14 @@
 
 This project involves a comprehensive analysis of a customer segment dataset to uncover key business intelligence and performance metrics. The goal was to transform raw customer data into an interactive Power BI dashboard, providing actionable insights into revenue, profitability, and customer behaviour across different segments.
 
+## Table of Contents.
+---
+1. [Data Sources](data-sources)
+2. [Tools and Technologies](tools-and-technologies)
+3. [Key Metrics and Insights Calculated](key-metrics-and-insights-calculated)
+4. [DAX Implementation](dax-implementation)
+5. [Lessons Learned](lessons-learned)
+
 ### Data Sources.
 ---
 Sales data: The primary data used for this analysis is the "Superstore.csv" from Kaggle. It contained data on customers, including the orders they placed from each region, spanning four years, from 2011 to 2014.
