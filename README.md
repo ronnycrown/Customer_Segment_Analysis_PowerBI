@@ -4,11 +4,11 @@ This project involves a comprehensive analysis of a customer segment dataset to 
 
 ## Table of Contents.
 ---
-1. [Data Sources](data-sources)
-2. [Tools and Technologies](tools-and-technologies)
-3. [Key Metrics and Insights Calculated](key-metrics-and-insights-calculated)
-4. [DAX Implementation](dax-implementation)
-5. [Lessons Learned](lessons-learned)
+1. [Data Sources](#data-sources)
+2. [Tools and Technologies](#tools-and-technologies)
+3. [Key Metrics and Insights Calculated](#key-metrics-and-insights-calculated)
+4. [DAX Implementation](#dax-implementation)
+5. [Lessons Learned](#lessons-learned)
 
 ### Data Sources
 ---
