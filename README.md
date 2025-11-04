@@ -10,6 +10,9 @@ This project involves a comprehensive analysis of a customer segment dataset to 
 4. [DAX Implementation](#dax-implementation)
 5. [Lessons Learned](#lessons-learned)
 
+<img width="1280" height="718" alt="Superstore dashboard" src="https://github.com/user-attachments/assets/396355dc-43b7-4eec-8958-2d1579686cfa" />
+[Superstore BI.pdf](https://github.com/user-attachments/files/23336842/Superstore.BI.pdf)
+
 ### Data Sources
 ---
 Sales data: The primary data used for this analysis is the "Superstore.csv" from Kaggle. It contained data on customers, including the orders they placed from each region, spanning four years, from 2011 to 2014.
