@@ -8,19 +8,19 @@ This project involves a comprehensive analysis of a customer segment dataset to 
 2. [Tools and Technologies](tools-and-technologies)
 3. [Key Metrics and Insights Calculated](key-metrics-and-insights-calculated)
 4. [DAX Implementation](dax-implementation)
-5. [Lessons Learned.](lessons-learned.)
+5. [Lessons Learned](lessons-learned)
 
-### Data Sources.
+### Data Sources
 ---
 Sales data: The primary data used for this analysis is the "Superstore.csv" from Kaggle. It contained data on customers, including the orders they placed from each region, spanning four years, from 2011 to 2014.
 
-### Tools and Technologies.
+### Tools and Technologies
 ---
 - Microsoft PowerBI - For Data Modelling, DAX and Visualisation.
 - DAX(Data Analysis Expressions - For creating calculated measures and columns.
 - Power Query - For Data Transformation and Cleaning. 
 
-### Key Metrics and Insights Calculated.
+### Key Metrics and Insights Calculated
 ---
 1. Revenue by Customer Segment.
 2. Total Profit by Customer Segment.
@@ -37,14 +37,14 @@ Sales data: The primary data used for this analysis is the "Superstore.csv" from
    - Revenue YoY (Year Over Year) and MoM (Month Over Month) Growth.
    - Profit YoY (Year Over Year) and MoM (Month Over Month) Growth.
 
-### DAX Implementation.
+### DAX Implementation
 ---
 A significant part of this project was writing DAX formulas to create dynamic measures. This was a challenging but rewarding process. Some of the key DAX concepts used include:
 - CALCULATE(): For modifying filter context (crucial for YoY/MoM calculations).
 - SUM(), AVERAGE(), DISTINCTCOUNT(): Basic aggregation functions.
 - Creating explicit measures for all KPIs to ensure accuracy and reusability.
 
-### Lessons Learned.
+### Lessons Learned
 ---
 - DAX is powerful, but it has a learning curve. Understanding the context row and filter is fundamental.
 - Data modelling is the foundation: A clean and well-structured data model is critical for accurate DAX calculations.
